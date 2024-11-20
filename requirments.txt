@@ -1,0 +1,5 @@
+django
+djangorestframework
+environs
+django-appointment
+django_q2
